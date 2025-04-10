@@ -1,0 +1,13 @@
+arenas:
+  arena1:
+    displayName: "Песочница"
+    minPlayers: 2
+    maxPlayers: 10
+    pos1:
+      x: 0.0
+      y: 65.0
+      z: 0.0
+    pos2:
+      x: 50.0
+      y: 70.0
+      z: 50.0

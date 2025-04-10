@@ -1,0 +1,11 @@
+name: HypixelDisasters
+version: '${project.version}'
+main: ru.paingocry.disasters.Main
+commands:
+  disasters:
+    description: Главная команда для режима Disasters
+    usage: /disasters
+permissions:
+  disasters.admin:
+    description: Доступ к административным командам Disasters
+    default: op
